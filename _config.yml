@@ -1,0 +1,9 @@
+defaults:
+  - scope:
+        path: ""
+        type: posts
+    values:
+        thumbnail: ""
+        categories: []
+        description: ""
+        custom: ""
