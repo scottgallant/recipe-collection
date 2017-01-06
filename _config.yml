@@ -3,12 +3,19 @@ defaults:
         path: ""
         type: posts
     values:
-        thumbnail: ""
+        image: ""
         tags: []
+        source: ""
+        yield: ""
+
         authorNote: ""
         personalNote: ""
-        yield: ""
-        ingredients: ""
+
+        ingredients: []
+
         totalTime: ""
         prepTime: ""
+        handsoffTime: ""
         cookTime: ""
+        assemblyTime: ""
+        reheatTime: ""

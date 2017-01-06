@@ -19,16 +19,25 @@
     </header>
 
     <div class="content">
-      <h1> {{ page.title}} </h1>
-      <h5> {{ page.tags}} | {{page.date}}</h5>
-      <p> {{ page.yield}} | {{ page.totalTime }}</p>
+      <div class="image">{{ page.image }}</div>
+      <h1> {{ page.title }} </h1>
+      <h5> {{ page.tags }} | {{page.date}}</h5>
+      <p> {{ page.yield }} | 
+      <h3>{{ page.totalTime }}</h3>
 
-      <blockquote >{{ page.authorNote }}</blockquote>
+      <blockquote><em>{{ page.authorNote }}</em></blockquote>
 
-      <blockquote >{{ page.personalNote }}</blockquote>
-      
+      <blockquote>{{ page.personalNote }}</blockquote>
+
+      <h4>Prep time <strong>{{ page.prepTime }}</strong> | 
+          Hands-off time <strong>{{ page.handsoffTime }}</strong> | 
+          Cook time <strong>{{ page.cookTime }}</strong> | 
+          Assembly time <strong>{{ page.assemblyTime }}</strong> | 
+          Reheat time <strong>{{ page.reheatTime }}</strong>
+      </h4>
+
       <div class="ingredients">
-      {{ ingredients }}
+        {{ page.ingredients }}
       </div>
 
       {{content}}
