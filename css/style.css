@@ -34,17 +34,16 @@ h5 {
 	}
 
 
-/* 02 HEADER + FOOTER */
+/* 02 HEADER + CONTENT + FOOTER */
 
-header {
+.header-content {
 	margin-bottom: 80px;
 	}
 
 .footer-content {
 	margin-top: 40px;
 	}
-
+	
 /* unused classes:
-	.header-content
 	.main-nav
 */
