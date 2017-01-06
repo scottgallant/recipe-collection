@@ -14,12 +14,12 @@ authorNote: The texture is almost truffle-like, and closer to dark chocolate tha
   squares in your mouth before you realize you’ve eating half the batch.
 personalNote: ''
 yield: One 6x6 baking dish
-ingredients: |-
-  ⅔ cup full-fat coconut milk from a can
-  2 tablespoons coconut oil
-  12 oz semi sweet choc chips
-  1 teaspoon vanilla extract
-  Flaky sea salt, for serving
+ingredients:
+- "⅔ cup full-fat coconut milk from a can"
+- 2 Tbsp coconut oil
+- 12 oz semi-sweet chocolate chips
+- 1 tsp vanilla extract
+- Flaky sea salt, for serving
 totalTime: 4 hrs 30 min to overnight
 prepTime: 5 min
 cookTime: 10 min
