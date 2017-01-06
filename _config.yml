@@ -6,7 +6,7 @@ defaults:
         image: ""
         tags: []
         source: ""
-        yield: ""
+        yield: "default yield"
 
         authorNote: ""
         personalNote: ""
