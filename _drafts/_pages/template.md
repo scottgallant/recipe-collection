@@ -1,9 +1,9 @@
 ---
-title: Template
+title: Tag template
 date: '2017-01-06 15:30:58'
 layout: default
 ---
-# Tags
+# A guide to recipe tags
 
 ### mealType
 *These will likely become broader categories, at some point.*
