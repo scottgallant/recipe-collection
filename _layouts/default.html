@@ -12,13 +12,13 @@
     <div class="header-content">
       <h1>Recipe collection</h1>
       <nav class="main-nav">
-        <h5><a href="/">Home</a> | <a href="/posts">Posts</a> | <a href="/about">About</a> | Search</h5>
+        <a href="/">Home</a> | <a href="/posts">Posts</a> | <a href="/about">About</a> | Search
       </nav>
     </div>
     <div class="content">
       {{ content }}
-      {{ title }}
-      {{ tags }}
+      {{ post.title }}
+      {{ post.tags }}
     </div>
 
     <footer>
