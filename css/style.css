@@ -35,11 +35,16 @@ h5 {
 
 
 /* 02 HEADER + FOOTER */
-.header-content {
-	float: left;
-}
-.main-nav {
-}
+
+header {
+	margin-bottom: 80px;
+	}
+
 .footer-content {
 	margin-top: 40px;
-}
+	}
+
+/* unused classes:
+	.header-content
+	.main-nav
+*/
