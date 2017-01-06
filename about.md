@@ -3,7 +3,9 @@ title: About
 date: '2017-01-05 00:00:00'
 layout: default
 ---
-# Hello. Welcome to my personal recipe collection.
+# Hello. 
+
+And welcome to my personal recipe collection.
 
 ## This is a grand experiment.
 
@@ -18,5 +20,3 @@ Eventually, I hope to add fancy search and commenting functionality so that I ca
 ## So, if you've magically stumbled on this site, <a href="http://sharonbrener.com/contact/">say hi</a>. I hope it makes you hungry. 
 
 <3, s
-
-{
