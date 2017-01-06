@@ -4,6 +4,6 @@ defaults:
         type: posts
     values:
         thumbnail: ""
-        categories: []
+        tags: []
         description: ""
-        custom: ""
+        yield: ""
