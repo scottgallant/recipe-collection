@@ -13,7 +13,7 @@ authorNote: The texture is almost truffle-like, and closer to dark chocolate tha
   away to friends and family. It’s super addictive and you’ll be popping those fudge
   squares in your mouth before you realize you’ve eating half the batch.
 personalNote: ''
-yield: One 6x6 baking dish
+yield: Makes one 6x6 baking dish
 ingredients: |-
   ⅔ cup full-fat coconut milk from a can
   2 Tbsp coconut oil
@@ -43,5 +43,5 @@ When ready to serve, cut into half-inch to one-inch squares and sprinkle with fl
 ### Orange
 Substitute Cointreau for vanilla extract and orange zest or candied orange peel for the flaky sea salt.
 
-### Mexican chocolate
+#### Mexican chocolate
 Add chili powder, cinnamon, and a pinch of star anise when you add the vanilla. 
