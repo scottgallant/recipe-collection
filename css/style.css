@@ -1,5 +1,9 @@
+.container {
+	max-width: 740px;
+
+}
+
 body {
 	font-family: 'Source Sans Pro';
-	text-align: center;
-	margin: 100px;
+	font-size: 18px;
 }
