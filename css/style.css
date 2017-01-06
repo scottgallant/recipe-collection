@@ -3,10 +3,10 @@
 body {
 	max-width: 740px;
 	margin: auto;
+	font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
 	}
 
 p {
-	font-family: 'Source Sans Pro';
 	font-size: 16px;
 	}
 
