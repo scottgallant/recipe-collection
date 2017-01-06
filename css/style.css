@@ -4,10 +4,11 @@ body {
 	max-width: 740px;
 	margin: auto;
 	font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+	line-height: 1.25;
 	}
 
 p {
-	font-size: 16px;
+	font-size: 20px;
 	}
 
 h1 {
@@ -28,8 +29,10 @@ h4 {
 
 h5 {
 	text-transform: uppercase;
-	font-size: 13px;
+	font-size: 14px;
 	opacity: 0.5;
+	letter-spacing: .75px;
+	font-weight: 500;
 	}
 
 
