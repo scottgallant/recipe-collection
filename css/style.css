@@ -1,7 +1,7 @@
 /* 01 BASIC STYLES */
 
 body {
-	max-width: 740px;
+	max-width: 720px;
 	margin: auto;
 	font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
 	}
@@ -54,3 +54,11 @@ content {
 /* unused classes:
 	.main-nav
 */
+
+
+/* 03 RECIPE ELEMENTS */
+
+.ingredients {
+	background: #f5f5f5;
+	padding: 20px;
+}

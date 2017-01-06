@@ -5,5 +5,10 @@ defaults:
     values:
         thumbnail: ""
         tags: []
-        description: ""
+        authorNote: ""
+        personalNote: ""
         yield: ""
+        ingredients: ""
+        totalTime: ""
+        prepTime: ""
+        cookTime: ""
