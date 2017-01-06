@@ -6,25 +6,31 @@
     <link rel="stylesheet" href="/css/style.css">
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,700" media="all">
   </head>
+
+
   <body>
+
     <header>
-      <div class="container">
-        <nav class="main-nav">
-          <ul>
-            <li><a href="/">Home</a></li>
-            <li><a href="/blog.html">Blog</a></li>
-          </ul>
-        </nav>
-        <h1><a href="/">Bakery<strong>Store</strong></a></h1>
+      <div class="header-content">
+        <h1>Recipe collection</h1>
       </div>
+      
+      <nav class="main-nav">
+        <h5><a href="/">Home</a> | <a href="/posts">Posts</a> | <a href="/about">About</a> | Search</h5>
+      </nav>
     </header>
+
     <div class="content">
+      {{ title }}
+      {{ tags }}
       {{ content }}
     </div>
+
     <footer>
-      <div class="container">
-        <p class="center-text"> <a href="http://cloudcannon.com">Created by CloudCannon</a></p>
-      </div>
+      <div class="footer-content">
+        <h5>Made with love and many mistakes by <a href="http://www.sharonbrener.com">Sharon Brener</a>.</h5>
     </footer>
+
+
   </body>
 </html>
