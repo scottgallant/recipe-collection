@@ -1,7 +1,7 @@
 ---
 title: Easy Vegan Fudge
-date: '2017-01-06 14:11:25'
-thumbnail: forestryio/images/IMG_3794.JPG
+date: '2017-01-06 00:00:00'
+thumbnail: forestryio/images/easy-vegan-fudge.JPG
 tags:
 - basics
 - make-ahead
