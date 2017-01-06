@@ -38,12 +38,17 @@ h5 {
 
 .header-content {
 	margin-bottom: 80px;
+	width: 100%;
 	}
 
+content {
+	width: 100%;
+	}
+	
 .footer-content {
 	margin-top: 40px;
 	}
-	
+
 /* unused classes:
 	.main-nav
 */
