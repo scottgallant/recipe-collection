@@ -1,9 +1,36 @@
+/* 01 BASIC STYLES */
+
+body, p {
+	font-family: 'Source Sans Pro';
+	font-size: 16px;
+}
+
+h1 {
+	font-size: 40px;
+}
+
+h2 {
+	font-size: 32px;
+}
+
+h3 {
+	font-size: 28px;
+}
+
+h4 {
+	font-size: 24px;
+}
+
+h5 {
+	text-transform: uppercase;
+	font-size: 13px;
+	letter-spacing: 1.1em;
+	opacity: 0.8;
+}
+
+/* 02 BODY STYLES */
+
 .container {
 	max-width: 740px;
 
-}
-
-body {
-	font-family: 'Source Sans Pro';
-	font-size: 18px;
 }
