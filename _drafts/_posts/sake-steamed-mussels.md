@@ -19,11 +19,11 @@ authorNote: Surprise… mussels are so easy. 6 ingredients and about 5 minutes l
   bok choy and soba noodles to go along with them (and to soak up more of the broth
   – no sake goes to waste in our house).
 personalNote: ''
-ingredients: []
-totalTime: ''
-prepTime: ''
+ingredients: ''
+totalTime: 30 min
+prepTime: 20 min
 handsoffTime: ''
-cookTime: ''
+cookTime: 5-10 min
 chillTime: ''
 assemblyTime: ''
 reheatTime: ''
