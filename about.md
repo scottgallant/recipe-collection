@@ -17,6 +17,6 @@ Eventually, I hope to add fancy search and commenting functionality so that I ca
 
 ## A canonical recipe format should exist.
 
-Because I work with [a bunch of wonderful nerds](https://data.world), I couldn't help but obsess over the recipe schema. My recipe template is based off of the entities on <https://schema.org/Recipe> and I've done my best to create a complete *(lol)* set of tags that span meal type, ingredients, diets, cooking methods, cuisines, and seasons. [It's complicated](/a-guide-to-recipe-tags.html), and a perpetual work in progress.
+Because I work with [a bunch of wonderful nerds](https://data.world), I couldn't help but obsess over the recipe schema. My recipe template is based off of the entities on <https://schema.org/Recipe> and I've done my best to create a complete *(lolol)* set of tags that span meal type, ingredients, diets, cooking methods, cuisines, and seasons. [It's complicated](/a-guide-to-recipe-tags.html), and a perpetual work in progress.
 
 ## So, if you've somehow stumbled on this site, [say hi](http://sharonbrener.com/contact/). I hope it makes you hungry.
