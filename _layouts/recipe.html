@@ -22,9 +22,7 @@
           <div class="image"><img src="/{{ page.image }}" width="720px"></div>
       {% endif %}
 
-  <!-- Title and tags -->
-
-      <h1> {{ page.title }} </h1>
+  <!-- Tags -->
 
       <h5 class="tags"> 
         {% for tag in page.tags %}
@@ -35,17 +33,21 @@
         {% endfor %}
       </h5>
 
-    <!-- Source and yield -->
+  <!-- Page title -->
 
-      <p> From <strong><a href="{{ page.sourceURL }}">{{ page.source }}</a></strong> {{ page.sourceAuthor }}
-      <br /> {{ page.yield }} </p>
+      <h1> {{ page.title }} </h1>
 
-    <!-- Author + personal quotes -->
+  <!-- Source and yield -->
+
+      <h4>From <strong><a href="{{ page.sourceURL }}">{{ page.source }}</a></strong> {{ page.sourceAuthor }}
+      <br /><em>{{ page.yield }}</em></h4>
+
+  <!-- Author + personal quotes -->
 
       <blockquote class="authorNote">{{ page.authorNote }}</blockquote>
       <blockquote class="personalNote">{{ page.personalNote }}</blockquote>
 
-    <!-- Time breakdown -->
+  <!-- Time breakdown -->
 
       <div class="time-breakdown">
         <h2>Total time <strong>{{ page.totalTime }}</strong></h2>
@@ -71,19 +73,24 @@
         </h4>
       </div>
 
-    <!-- Ingredient list -->
+  <!-- Ingredient list -->
 
       <div class="ingredients">
         <p>{{ page.ingredients }}</p>
       </div>
 
-    <!-- Method as body content -->
+  <!-- Method as body content -->
 
       <div class="method">
+      <h2>Method</h2>
+
         {{content}}
       </div>
 
-  </div>
+
+  </div> <!-- end content div -->
+
+    <!-- Footer -->
 
   {% include footer.html %}
 
