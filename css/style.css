@@ -57,8 +57,10 @@ a {
 }
 
 a:hover {
-	/* text-decoration: none; */
 	color: #f14a0e;
+	text-decoration: none;
+	border-bottom: 1px solid #f14a0e;
+
 }
 
 h1 {
@@ -148,7 +150,7 @@ content {
 
 /*  03 HOVER ANIMATION  */
 
-h3 > a:before {
+a:before {
   content: "";
   position: absolute;
   width: 100%;
@@ -164,7 +166,7 @@ h3 > a:before {
   transition: all 0.3s ease-in-out 0s;
 }
 
-h3 > a:hover:before {
+a:hover:before {
   visibility: visible;
   -webkit-transform: scaleX(1);
   transform: scaleX(1);
