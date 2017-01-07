@@ -19,17 +19,12 @@ authorNote: Surprise… mussels are so easy. 6 ingredients and about 5 minutes l
   bok choy and soba noodles to go along with them (and to soak up more of the broth
   – no sake goes to waste in our house).
 personalNote: ''
-ingredients:
-- |-
+ingredients: |-
   2 lb fresh mussels
   1 ½ cups sake or dry white wine
   2 tsp finely grated fresh ginger
-  2 cloves garlic
-- |2-
-   finely minced
-  1 shallot
-- |2-
-   sliced into very thin rings
+  2 cloves garlic,  finely minced
+  1 shallot,  sliced into very thin rings
   A handful of fresh basil leaves
   A pinch of salt
 totalTime: 30 min
