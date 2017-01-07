@@ -26,7 +26,7 @@
 
     <!-- Source and yield -->
 
-      <p> From <a href="{{ page.sourceURL }}">{{ page.source }}</a> {{ page.sourceAuthor }}
+      <p> From <strong><a href="{{ page.sourceURL }}">{{ page.source }}</a></strong> {{ page.sourceAuthor }}
       <br /> {{ page.yield }} </p>
 
     <!-- Author + personal quotes -->
@@ -37,7 +37,7 @@
     <!-- Time breakdown -->
 
       <div class="time-breakdown">
-        <h3>{{ page.totalTime }}</h3>
+        <h3>Total time <strong>{{ page.totalTime }}</strong></h3>
 
         <p>
           {% if page.prepTime != "" %} 

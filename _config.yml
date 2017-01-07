@@ -19,8 +19,6 @@ defaults:
         authorNote: ""
         personalNote: ""
 
-        ingredients: []
-
         totalTime: ""
 
         prepTime: ""
@@ -29,6 +27,8 @@ defaults:
         chillTime: ""
         assemblyTime: ""
         reheatTime: ""
+
+        ingredients: []
 
   - scope:
         path: ""
