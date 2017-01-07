@@ -2,7 +2,7 @@
 title: Salt-cured Salmon with Vodka, Juniper, Rosemary and Lemon Zest
 date: '2017-01-07 00:08:15'
 layout: recipe
-image: ''
+image: assets/salt-cured-salmon.jpg
 tags:
 - salmon
 - make-ahead
@@ -67,4 +67,4 @@ Thaw in the fridge for 24-36 hours.
 
 ## Spin-offs
 
-I've made this with a combination of fresh and dried rosemary (when we literally salmon-ed our garden out of rosemary) or with dill in place of the rosemary. It's difficult to taste the herbs themselves, so don't worry too much about which ones you use. 
+I've made this with a combination of fresh and dried rosemary (when we literally salmon-ed our garden out of rosemary) or with dill in place of the rosemary. It's difficult to taste the herbs themselves, so don't worry too much about which ones you use. ![]({{ site.baseurl }}/assets/salt-cured-salmon-1.jpg)
