@@ -14,14 +14,15 @@
   
   {% include header.html %}
 
+  <div class="content">
+
   <!-- Post image -->
-  {% if page.image != "" %} 
-      <div class="image"><img src="/{{ page.image }}" width="720px"></div>
-  {% endif %}
+  
+      {% if page.image != "" %} 
+          <div class="image"><img src="/{{ page.image }}" width="720px"></div>
+      {% endif %}
 
   <!-- Title and tags -->
-
-  <div class="content">
 
       <h1> {{ page.title }} </h1>
 
