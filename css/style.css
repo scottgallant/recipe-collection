@@ -53,11 +53,11 @@ p {
 a {
 	text-decoration: none;
 	color: #c07c12;
-	/* position: relative; */
+	position: relative;
 }
 
 a:hover {
-	text-decoration: none;
+	/* text-decoration: none; */
 	color: #f14a0e;
 }
 
