@@ -35,15 +35,15 @@ chillTime: ''
 assemblyTime: ''
 reheatTime: ''
 ---
-## To prep the mussels
+### To prep the mussels
 
 Scrub the mussels under cool water, discarding any with broken or cracked shells. Fill a bowl with water and add a tablespoon or two of flour to it. The mussels will eat the flour and spit out their sand after about 10-15 min. 
 
-## To cook
+### To cook
 
 Heat a large sauté pan, deep soup pot, or wok over high heat with the sake, ginger, garlic, and shallots. 
 
 When the mixture comes to a boil, add the mussels and cover. Cook for 5 minutes, or until the mussels open. Toss in the basil and serve immediately.
 
-## To assemble
+### To assemble
 For a complete meal, serve with steamed bok choy and soba noodles, garnished with toasted sesame seeds.
