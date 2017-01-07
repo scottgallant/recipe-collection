@@ -6,7 +6,7 @@ layout: default
 # A guide to recipe tags
 
 ### mealType
-*These will likely become broader categories, at some point.*
+These will likely become broader categories, at some point.
 * `breakfast`
 * `lunch`
 * `dinner`
@@ -15,7 +15,7 @@ layout: default
 * `sauce`
 
 ### recipeIngredient
-*The one or two main ingredients in the dish, i.e. `beef`, `chocolate`, `broccoli`. These should reflect their primary food group (dairy, fruit, grains, meat, vegetable, alcohol).* 
+The one or two main ingredients in the dish, i.e. `beef`, `chocolate`, `broccoli`. These should reflect their primary food group (dairy, fruit, grains, meat, vegetable, alcohol).
 
 ### restrictedDiet
 * `vegan`
@@ -26,7 +26,7 @@ layout: default
 * `diabetic`
 
 ### cookingMethod
-*The one or two main cooking methods used.*
+The one or two main cooking methods used.
 * `bake`
 * `blanche`
 * `braise`
