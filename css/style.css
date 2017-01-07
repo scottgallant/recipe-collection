@@ -77,7 +77,10 @@ content {
 /* 03 RECIPE ELEMENTS */
 
 .image {
-
+	height: 100px; 
+	width: 200px; 
+	overflow: hidden;
+	position: relative;
 	}
 
 .tags {
