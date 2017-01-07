@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <title>Home Page</title>
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,700" media="all">
+  <link href="https://fonts.googleapis.com/css?family=Bitter:400,400i|Open+Sans:400,600,700" rel="stylesheet">
 </head>
 
 
@@ -16,7 +16,7 @@
 
   <!-- Post image -->
   {% if page.image != "" %} 
-      <div class="image"><img src="/{{ page.image }}"></div>
+      <div class="image"><img src="/{{ page.image }} width=720px "></div>
   {% endif %}
 
   <!-- Title and tags -->
@@ -38,8 +38,8 @@
 
     <!-- Author + personal quotes -->
 
-      <blockquote><em>{{ page.authorNote }}</em></blockquote>
-      <blockquote>{{ page.personalNote }}</blockquote>
+      <blockquote class="authorNote">{{ page.authorNote }}</blockquote>
+      <blockquote class="personalNote">{{ page.personalNote }}</blockquote>
 
     <!-- Time breakdown -->
 

@@ -1,39 +1,72 @@
+
+/* 00 FONTS AND COLORS */
+/*  FONTS FROM GOOGLE
+		Open Sans
+			400 Regular
+			600 Semi-Bold
+			700 Bold
+		Bitter
+			400 Regular
+			400i Regular Italic
+		Monospace
+			OS default
+
+	COLORS FROM LEKKER LABS
+		Red: #f14a0e;
+		Bronze: #c07c12;
+		Light bronze: #c09859;
+		Navy: #102255;
+		Medium blue: #3d5a95;
+		Dark gray: #515967;
+		Medium gray: #d0d4db;
+		Light gray: #f1f3f7;
+*/
+
+
 /* 01 BASIC STYLES */
 
 body {
 	max-width: 720px;
 	margin: auto;
-	font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+	font-family: 'Open Sans', sans-serif;
+	color: #515967;
+	font-weight: 400;
 	}
 
 p {
-	font-size: 18px;
+	font-family: 'Bitter', serif;
+	font-size: 20px;
 	line-height: 1.4;
 	}
 
 a {
 	text-decoration: none;
+	color: #c07c12;
 }
 
 a:hover {
 	text-decoration: underline;
+	color: #f14a0e;
 }
 
 h1 {
 	font-size: 40px;
+	font-weight: 700;
 	}
 
 h2 {
 	font-size: 32px;
+	font-weight: 600;
 	}
 
 h3 {
 	font-size: 24px;
+	font-weight: 400;
 	}
 
 h4 {
 	font-size: 20px;
-	font-weight: 500;
+	font-weight: 600;
 	}
 
 h5 {
@@ -41,25 +74,38 @@ h5 {
 	font-size: 14px;
 	opacity: 0.5;
 	letter-spacing: .75px;
-	font-weight: 500;
+	font-weight: 600;
 	}
 
 blockquote {
+	font-family: 'Bitter', serif;
 	line-height: 1.4;
 	font-size: 24px;
-	font-weight: 500;
-	border-left: 2px #ddd solid;
+	font-weight: 400;
 	margin: 20px 0px;
 	padding-left: 40px;
 	max-width: 90%;
+	/* border-left set at authorNote and personalNote below */
 	}
 
-/* 02 HEADER + CONTENT + FOOTER */
+code.highlighter-rouge {
+    background-color: #d0d4db;
+	}
+
+/* 02 HEADER + NAV + CONTENT + FOOTER */
 
 .header-content {
 	margin-bottom: 80px;
 	width: 100%;
+	color: #c07c12;
 	}
+
+. main-nav {
+	text-transform: uppercase;
+	font-size: 14px;
+	letter-spacing: .75px;
+	font-weight: 600;
+}
 
 content {
 	width: 100%;
@@ -70,9 +116,6 @@ content {
 	margin-top: 40px;
 	}
 
-/* unused classes:
-	.main-nav
-*/
 
 /* 03 RECIPE ELEMENTS */
 
@@ -80,19 +123,27 @@ content {
 	width: 100%;
 	max-height: 300px; 
 	overflow: hidden;
-	position: relative;
-	margin: auto;
+	position: absolute;
 	}
 
 .tags {
 	font-weight: 500;
 	}
 
+.authorNote {
+	border-left: 2px #d0d4db solid;
+}
+.personalNote {
+	border-left: 2px #c09859 solid;
+	color: #c07c12;
+}
+
 .ingredients p {
-	background: #f5f5f5;
+	background: #f1f3f7;
 	padding: 30px 40px;
 	white-space: pre-line;
 	line-height: 1.8;
+	color: 3d5a95;
 	}
 
 .time-breakdown h4 {
@@ -103,10 +154,4 @@ content {
 
 .time-breakdown .time-notlast:last-child {
 	display: none;
-	}
-
-/* 04 CODE */
-
-code.highlighter-rouge {
-    background-color: #f5f5f5;
 	}
