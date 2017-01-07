@@ -30,13 +30,26 @@
 
       <h3>{{ page.totalTime }}</h3>
 
-      <h4>
-        {% for time in page.times %}
-            {{ time.name }} <strong>{{ time.value }}</strong> 
-        {% endfor %}
-
-        Prep time <strong>10 min</strong> | 
-      </h4>
+      <p class="time-breakdown">
+        {% if page.prepTime.size %} 
+          Prep time <strong>{{ page.prepTime }}</strong>
+        {% endif %} 
+        {% if page.handsoffTime.size %} 
+          Hands-off time <strong>{{ page.handsoffTime }}</strong>
+        {% endif %} 
+        {% if page.cookTime.size %} 
+          Cook time <strong>{{ page.cookTime }}</strong>
+        {% endif %} 
+        % if page.chillTime.size %} 
+          Cook time <strong>{{ page.chillTime }}</strong>
+        {% endif %} 
+        {% if page.assemblyTime.size %} 
+          Cook time <strong>{{ page.assemblyTime }}</strong>
+        {% endif %} 
+        {% if page.reheatTime.size %} 
+          Cook time <strong>{{ page.reheatTime }}</strong>
+        {% endif %}
+      </p
 
       <div class="ingredients">
         {{ page.ingredients }}

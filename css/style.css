@@ -71,6 +71,9 @@ content {
 	padding: 20px;
 	white-space: pre;
 	}
+.time-breakdown {
+	opacity: 0.5;
+}
 
 /* 04 CODE */
 
