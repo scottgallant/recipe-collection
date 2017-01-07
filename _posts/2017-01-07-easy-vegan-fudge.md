@@ -1,8 +1,8 @@
 ---
 title: Easy Vegan Fudge
-date: '2017-01-06 23:54:28'
+date: '2017-01-06 00:00:00'
 layout: recipe
-image: assets/easy-vegan-fudge-4.JPG
+image: assets/easy-vegan-fudge-5.JPG
 tags:
 - basics
 - chocolate
