@@ -51,6 +51,7 @@ blockquote {
 	border-left: 2px #ddd solid;
 	margin: 20px 0px;
 	padding-left: 40px;
+	max-width: 90%;
 	}
 
 /* 02 HEADER + CONTENT + FOOTER */
