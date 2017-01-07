@@ -37,7 +37,7 @@ body {
 	}
 
 p {
-	font-family: 'Bitter', serif;
+	font-family: 'Scope One', serif;
 	font-size: 1.125rem;
 	line-height: 1.6;
 	}
@@ -101,10 +101,6 @@ code.highlighter-rouge {
     line-height: 1.8;
     border-radius: 0.125rem;
 	}
-
-p em{
-	font-weight: 400i;
-}
 
 /* 02 HEADER + NAV + CONTENT + FOOTER */
 
