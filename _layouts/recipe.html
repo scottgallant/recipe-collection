@@ -31,23 +31,23 @@
       <h3>{{ page.totalTime }}</h3>
 
       <p class="time-breakdown">
-        {% if page.prepTime.size %} 
+        {% if page.prepTime %} 
           Prep time <strong>{{ page.prepTime }}</strong>
         {% endif %} 
-        {% if page.handsoffTime.size %} 
+        {% if page.handsoffTime %} 
           Hands-off time <strong>{{ page.handsoffTime }}</strong>
         {% endif %} 
-        {% if page.cookTime.size %} 
+        {% if page.cookTime %} 
           Cook time <strong>{{ page.cookTime }}</strong>
         {% endif %} 
-        {% if page.chillTime.size %} 
-          Cook time <strong>{{ page.chillTime }}</strong>
+        {% if page.chillTime %} 
+          Chill time <strong>{{ page.chillTime }}</strong>
         {% endif %} 
-        {% if page.assemblyTime.size %} 
-          Cook time <strong>{{ page.assemblyTime }}</strong>
+        {% if page.assemblyTime %} 
+          Assembly time <strong>{{ page.assemblyTime }}</strong>
         {% endif %} 
-        {% if page.reheatTime.size %} 
-          Cook time <strong>{{ page.reheatTime }}</strong>
+        {% if page.reheatTime %} 
+          Reheat time <strong>{{ page.reheatTime }}</strong>
         {% endif %}
       </p
 
