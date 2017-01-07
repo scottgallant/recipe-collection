@@ -75,8 +75,7 @@ h4 {
 h5 {
 	text-transform: uppercase;
 	letter-spacing: 0.1rem;
-	font-size: 0.875rem;
-	opacity: 0.5;
+	font-size: 0.75rem;
 	font-weight: 600;
 	}
 
@@ -136,6 +135,7 @@ content {
 
 .footer-content {
 	margin-top: 2.5rem;
+	opacity: 0.8;
 	}
 
 
@@ -166,11 +166,10 @@ content {
 	padding: 2rem 2.5rem;
 	white-space: pre-line;
 	line-height: 1.8;
-	color: #3d5a95;
 	}
 
 .time-breakdown h4 {
-	opacity: 0.5;
+	opacity: 0.8;
 	margin-top: 0.625rem;
 	width: 85%;
 	}
