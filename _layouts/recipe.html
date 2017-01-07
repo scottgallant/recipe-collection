@@ -31,22 +31,22 @@
       <h3>{{ page.totalTime }}</h3>
 
       <p class="time-breakdown">
-        {% if page.prepTime %} 
+        {% if page.prepTime != "" %} 
           Prep time <strong>{{ page.prepTime }}</strong><span class="time-notlast"> | </span>
         {% endif %} 
-        {% if page.handsoffTime %} 
+        {% if page.handsoffTime != "" %} 
           Hands-off time <strong>{{ page.handsoffTime }}</strong><span class="time-notlast"> | </span>
         {% endif %} 
-        {% if page.cookTime %} 
+        {% if page.cookTime != "" %} 
           Cook time <strong>{{ page.cookTime }}</strong><span class="time-notlast"> | </span>
         {% endif %} 
-        {% if page.chillTime %} 
+        {% if page.chillTime != "" %} 
           Chill time <strong>{{ page.chillTime }}</strong><span class="time-notlast"> | </span>
         {% endif %} 
-        {% if page.assemblyTime %} 
+        {% if page.assemblyTime != "" %} 
           Assembly time <strong>{{ page.assemblyTime }}</strong><span class="time-notlast"> | </span>
         {% endif %} 
-        {% if page.reheatTime %} 
+        {% if page.reheatTime != "" %} 
           Reheat time <strong>{{ page.reheatTime }}</strong><span class="time-notlast"> | </span>
         {% endif %}
       </p>
