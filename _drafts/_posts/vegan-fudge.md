@@ -1,7 +1,7 @@
 ---
 title: Easy Vegan Fudge
 date: '2017-01-06 00:00:00'
-thumbnail: assets/easy-vegan-fudge-1.JPG
+thumbnail: assets/easy-vegan-fudge-3.JPG
 tags:
 - basics
 - make-ahead
