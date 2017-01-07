@@ -15,8 +15,9 @@
   {% include header.html %}
 
   <!-- Post image -->
-
-  <div class="image"><img src="{{ page.image }}"></div>
+  {% if page.image != "" %} 
+      <div class="image"><img src="/{{ page.image }}"></div>
+  {% endif %}
 
   <!-- Title and tags -->
 
