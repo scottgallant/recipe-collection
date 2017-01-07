@@ -88,6 +88,7 @@ blockquote {
 	margin: 3rem 0rem;
 	padding-left: 2.5rem;
 	max-width: 90%;
+	white-space: pre-line;
 	/* border-left set at authorNote and personalNote below */
 	}
 
@@ -109,19 +110,23 @@ p em{
 /* 02 HEADER + NAV + CONTENT + FOOTER */
 
 .header-content {
-	margin-bottom: 5rem;
 	width: 100%;
 	color: #c07c12;
 	}
 
-.header-content a{
+.header-content a {
 	color: #515967;
+}
+
+.header-content a:hover {
+	color: #f14a0e;
 }
 
 .main-nav {
 	text-transform: uppercase;
 	font-size: 0.875rem;
 	font-weight: 600;
+	margin-bottom: 5rem;
 }
 
 content {
