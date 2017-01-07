@@ -1,6 +1,6 @@
 ---
 title: Sake-steamed Mussels
-date: '2017-01-06 22:39:12'
+date: '2017-01-06 00:00:00'
 layout: recipe
 image: ''
 tags:
