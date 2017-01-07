@@ -53,6 +53,7 @@ blockquote {
 
 content {
 	width: 100%;
+	white-space: pre;
 	}
 
 .footer-content {

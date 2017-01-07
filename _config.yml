@@ -1,12 +1,19 @@
 defaults:
+
   - scope:
         path: ""
         type: posts
     values:
+        layout: "recipe"
+
         image: ""
         tags: []
-        source: ""
-        yield: "default yield"
+
+        source: "site name or book name"
+        sourceURL: ""
+        sourceAuthor: "by [Author], p[n]"
+
+        yield: "Makes _"
 
         authorNote: ""
         personalNote: ""
@@ -19,3 +26,9 @@ defaults:
         cookTime: ""
         assemblyTime: ""
         reheatTime: ""
+
+  - scope:
+        path: ""
+        type: posts
+    values:
+        layout: "default"
