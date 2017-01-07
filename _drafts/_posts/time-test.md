@@ -12,10 +12,10 @@ authorNote: ''
 personalNote: ''
 ingredients: []
 totalTime: ''
-prepTime: "[] |"
-handsoffTime: "[] |"
-cookTime: "[] |"
-chillTime: "[] |"
-assemblyTime: "[] |"
+prepTime: 10 min |
+handsoffTime: 20 min
+cookTime: ''
+chillTime: ''
+assemblyTime: 15 min
 reheatTime: ''
 ---
