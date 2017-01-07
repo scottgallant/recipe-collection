@@ -1,6 +1,6 @@
 ---
 title: Salt-cured Salmon with Vodka, Juniper, Rosemary and Lemon Zest
-date: '2017-01-07 00:08:15'
+date: '2017-01-07 00:00:00'
 layout: recipe
 image: assets/salt-cured-salmon.jpg
 tags:
@@ -21,8 +21,7 @@ authorNote: This is not the lox I grew up with, but this salty, lemony cured sal
   space.
 personalNote: |-
   For an even lemony-er version, zest 1 ½ lemons and use ¼ rind of a preserved lemon.
-
-  > Serve with blueberry curd, latkes, and creme fraiche for a Hannukah spin, or Nordic style, with rye crostini, pickled fennel bulb, mustard seeds and creme fraiche (pictured).
+  Serve with blueberry curd, latkes, and creme fraiche for a Hannukah spin, or Nordic style, with rye crostini, pickled fennel bulb, mustard seeds and creme fraiche (pictured).
 totalTime: 36-60 hrs
 prepTime: 30 min
 handsoffTime: 36-60 hrs
