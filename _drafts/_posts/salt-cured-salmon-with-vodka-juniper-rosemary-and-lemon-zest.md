@@ -64,3 +64,7 @@ Unwrap the salmon and rinse the cure off under cold, running water. Pat dry and 
 The cured salmon keeps up to 5-6 days in the fridge and can be frozen for longer. To freeze, wrap tightly with plastic wrap so no air is in contact (which will discolor it) then place in zip lock bag. Sometimes I'll freeze in smaller portions. 
 
 Thaw in the fridge for 24-36 hours.
+
+## Spin-offs
+
+I've made this with a combination of fresh and dried rosemary (when we literally salmon-ed our garden out of rosemary) or with dill in place of the rosemary. It's difficult to taste the herbs themselves, so don't worry too much about which ones you use. 
