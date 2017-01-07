@@ -2,8 +2,13 @@
 title: Easy Vegan Fudge
 date: '2017-01-06 23:54:28'
 layout: recipe
-image: ''
-tags: []
+image: assets/easy-vegan-fudge-4.JPG
+tags:
+- basics
+- chocolate
+- make-ahead
+- dessert
+- vegan
 source: My Dish is Bomb
 sourceURL: http://mydishisbomb.com/easy-vegan-fudge/
 sourceAuthor: ''
