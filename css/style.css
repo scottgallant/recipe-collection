@@ -5,9 +5,8 @@
 			400 Regular
 			600 Semi-Bold
 			700 Bold
-		Bitter
+		Scope One
 			400 Regular
-			400i Regular Italic
 		Monospace
 			OS default
 
@@ -80,7 +79,7 @@ h5 {
 	}
 
 blockquote {
-	font-family: 'Bitter', serif;
+	font-family: 'Scope One', serif;
 	line-height: 1.4;
 	font-size: 1.5rem;
 	font-weight: 400;
