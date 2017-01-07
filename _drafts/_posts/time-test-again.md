@@ -12,10 +12,10 @@ authorNote: ''
 personalNote: ''
 ingredients: []
 totalTime: ''
-prepTime: ''
-handsoffTime: ''
+prepTime: 10 min
+handsoffTime: 20 min
 cookTime: ''
 chillTime: ''
-assemblyTime: ''
+assemblyTime: 40 min
 reheatTime: ''
 ---
