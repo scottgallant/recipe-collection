@@ -66,6 +66,9 @@ content {
 
 /* 03 RECIPE ELEMENTS */
 
+.tags {
+	font-weight: 500;
+}
 .ingredients {
 	background: #f5f5f5;
 	padding: 20px;
