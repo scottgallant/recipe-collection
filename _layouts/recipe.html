@@ -1,23 +1,28 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>Home Page</title>
-    <link rel="stylesheet" href="/css/style.css">
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,700" media="all">
-  </head>
+<head>
+  <meta charset="utf-8">
+  <title>Home Page</title>
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,700" media="all">
+</head>
 
 
-  <body>
-    
-    {% include header.html %}
+<body>
 
-    <div class="content">
+  <!-- Header -->
+  
+  {% include header.html %}
 
-      <div class="image"><img src="/{{ page.image }}" width="720px"></div>
+  <!-- Post image -->
+
+  <div class="image"><img src="{{ page.image }}"></div>
+
+  <!-- Title and tags -->
+
+  <div class="content">
+
       <h1> {{ page.title }} </h1>
-
-    <!-- Tags -->
 
       <h5 class="tags"> 
         {% for tag in page.tags %}
@@ -39,7 +44,6 @@
 
       <div class="time-breakdown">
         <h2>Total time <strong>{{ page.totalTime }}</strong></h2>
-
         <h4>
           {% if page.prepTime != "" %} 
             Prep time <strong>{{ page.prepTime }}</strong><span class="time-notlast"> | </span>
@@ -74,9 +78,9 @@
         {{content}}
       </div>
 
-    </div>
+  </div>
 
-    {% include footer.html %}
+  {% include footer.html %}
 
-  </body>
+</body>
 </html>
