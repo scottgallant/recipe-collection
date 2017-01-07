@@ -96,6 +96,7 @@ content {
 
 .time-breakdown p {
 	opacity: 0.5;
+	margin-top: -10px;
 	}
 
 .time-breakdown .time-notlast:last-child {
