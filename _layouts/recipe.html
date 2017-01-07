@@ -21,19 +21,21 @@
         {% endfor %}
       </h5>
 
-      <p> From <a href="{{ page.sourceURL }}">{{ page.source }} {{ page.sourceAuthor }}</a>
+      <p> From <a href="{{ page.sourceURL }}">{{ page.source }}</a> {{ page.sourceAuthor }}
       <br /> {{ page.yield }} </p>
-      <h3>{{ page.totalTime }}</h3>
 
       <blockquote><em>{{ page.authorNote }}</em></blockquote>
 
       <blockquote>{{ page.personalNote }}</blockquote>
 
-      <h4>Prep time <strong>{{ page.prepTime }}</strong> | 
-          Hands-off time <strong>{{ page.handsoffTime }}</strong> | 
-          Cook time <strong>{{ page.cookTime }}</strong> | 
-          Assembly time <strong>{{ page.assemblyTime }}</strong> | 
-          Reheat time <strong>{{ page.reheatTime }}</strong>
+      <h3>{{ page.totalTime }}</h3>
+
+      <h4>
+        {% for time in page.times %}
+            {{ time.name }} <strong>{{ time.value }}</strong> 
+        {% endfor %}
+
+        Prep time <strong>10 min</strong> | 
       </h4>
 
       <div class="ingredients">
