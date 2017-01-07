@@ -1,6 +1,6 @@
 ---
 title: Tag template
-date: '2017-01-06 15:30:58'
+date: '2017-01-06 00:00:00'
 layout: default
 ---
 # A guide to recipe tags
