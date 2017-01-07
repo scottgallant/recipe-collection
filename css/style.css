@@ -78,7 +78,6 @@ content {
 
 .image {
 	max-height: 300px; 
-	width: 720px; 
 	overflow: hidden;
 	position: relative;
 	}
@@ -97,6 +96,7 @@ content {
 .time-breakdown h4 {
 	opacity: 0.5;
 	margin-top: -10px;
+	width: 80%;
 	}
 
 .time-breakdown .time-notlast:last-child {
