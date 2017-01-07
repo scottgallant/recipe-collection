@@ -2,8 +2,7 @@
 title: Sake-steamed Mussels
 date: '2017-01-06 00:00:00'
 layout: recipe
-image:
-- assets/sake-steamed-mussels.JPG
+image: assets/sake-steamed-mussels.JPG
 tags:
 - mussels
 - seafood
