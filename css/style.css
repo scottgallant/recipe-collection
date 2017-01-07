@@ -45,7 +45,7 @@ h5 {
 	}
 
 blockquote {
-	line-height: 1.6;
+	line-height: 1.4;
 	font-size: 24px;
 	font-weight: 500;
 	border-left: 2px #333 solid;
@@ -79,22 +79,26 @@ content {
 
 .image {
 	max-width: 100%;
-}
+	}
 
 .tags {
 	font-weight: 500;
-}
+	}
+
 .ingredients {
 	background: #f5f5f5;
-	padding: 40px;
+	padding: 20px 40px 40px 40px;
 	white-space: pre-line;
+	line-height: 1.4;
 	}
+
 .time-breakdown {
 	opacity: 0.5;
-}
+	}
+
 .time-breakdown .time-notlast:last-child {
 	display: none;
-}
+	}
 
 /* 04 CODE */
 
