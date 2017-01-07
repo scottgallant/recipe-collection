@@ -1,6 +1,6 @@
 ---
 title: time test
-date: '2017-01-06 21:56:21'
+date: '2017-01-06 22:02:38'
 layout: recipe
 image: ''
 tags: []
@@ -12,17 +12,10 @@ authorNote: ''
 personalNote: ''
 ingredients: []
 totalTime: ''
-times:
-- name: Prep time
-  value: ''
-- name: Hands-off time
-  value: ''
-- name: Cook time
-  value: ''
-- name: Chill time
-  value: ''
-- name: Assembly time
-  value: ''
-- name: Reheat time
-  value: ''
+prepTime: "[] |"
+handsoffTime: "[] |"
+cookTime: "[] |"
+chillTime: "[] |"
+assemblyTime: "[] |"
+reheatTime: ''
 ---
