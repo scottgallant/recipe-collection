@@ -23,11 +23,11 @@ defaults:
 
         totalTime: ""
 
-        prepTime: "[] |"
-        handsoffTime: "[] |"
-        cookTime: "[] |"
-        chillTime: "[] |"
-        assemblyTime: "[] |"
+        prepTime: ""
+        handsoffTime: ""
+        cookTime: ""
+        chillTime: ""
+        assemblyTime: ""
         reheatTime: ""
 
   - scope:

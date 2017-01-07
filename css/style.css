@@ -74,6 +74,9 @@ content {
 .time-breakdown {
 	opacity: 0.5;
 }
+.time-breakdown .time-notlast:last-child {
+	display: none;
+}
 
 /* 04 CODE */
 
