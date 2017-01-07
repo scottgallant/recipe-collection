@@ -17,5 +17,5 @@ handsoffTime: 20 min
 cookTime: ''
 chillTime: ''
 assemblyTime: 40 min
-reheatTime: ''
+reheatTime: 50 min
 ---
