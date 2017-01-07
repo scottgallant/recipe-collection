@@ -38,9 +38,9 @@
     <!-- Time breakdown -->
 
       <div class="time-breakdown">
-        <h3>Total time <strong>{{ page.totalTime }}</strong></h3>
+        <h2>Total time <strong>{{ page.totalTime }}</strong></h2>
 
-        <p>
+        <h4>
           {% if page.prepTime != "" %} 
             Prep time <strong>{{ page.prepTime }}</strong><span class="time-notlast"> | </span>
           {% endif %} 
@@ -59,7 +59,7 @@
           {% if page.reheatTime != "" %} 
             Reheat time <strong>{{ page.reheatTime }}</strong><span class="time-notlast"> | </span>
           {% endif %}
-        </p>
+        </h4>
       </div>
 
     <!-- Ingredient list -->
