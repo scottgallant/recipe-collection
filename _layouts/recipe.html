@@ -16,7 +16,7 @@
 
   <!-- Post image -->
   {% if page.image != "" %} 
-      <div class="image"><img src="/{{ page.image }} width=720px "></div>
+      <div class="image"><img src="/{{ page.image }}" width="720px"></div>
   {% endif %}
 
   <!-- Title and tags -->
@@ -28,6 +28,9 @@
       <h5 class="tags"> 
         {% for tag in page.tags %}
             <a href="#">{{ tag }}</a>
+            {% if forloop.last != true %}
+                ,&nbsp;
+            {% endif %}
         {% endfor %}
       </h5>
 
