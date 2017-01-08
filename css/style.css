@@ -39,7 +39,6 @@ html {
 	font-size: 16px;
 }
 body {
-	max-width: 45rem;
 	margin: auto;
 	font-family: 'Open Sans', sans-serif;
 	color: #515967;
@@ -124,6 +123,7 @@ code.highlighter-rouge {
 	color: #c07c12;
 	display: block;
 	float: left;
+	margin-left: 3rem;
 	}
 
 .header-content a {
@@ -143,10 +143,11 @@ code.highlighter-rouge {
 	display: block;
 	width: 60%;
 	float: left;
+	margin-right: 3rem;
 }
 
 content {
-	width: 100%;
+	max-width: 45rem;
 	white-space: pre;
 	}
 
