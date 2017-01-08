@@ -2,7 +2,7 @@
 title: Moules a la Mariniere
 date: '2017-01-07 19:13:51'
 layout: recipe
-image: ''
+image: assets/moules-a-la-mariniere.jpg
 tags:
 - mussels
 - clams
