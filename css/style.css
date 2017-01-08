@@ -14,10 +14,12 @@
 			400 Regular
 			600 Semi-Bold
 			700 Bold
-		Scope One
+		Lora
 			400 Regular
-		Monospace
-			OS default
+			400i Regular Italic
+			700 Bold
+		Inconsolata
+			400 Regular
 
 	COLORS FROM LEKKER LABS
 		Red: #f14a0e;
@@ -45,7 +47,7 @@ body {
 	}
 
 p {
-	font-family: 'Scope One', serif;
+	font-family: 'Lora', serif;
 	font-size: 1.375rem;
 	line-height: 1.6;
 	}
@@ -91,7 +93,7 @@ h5 {
 	}
 
 blockquote {
-	font-family: 'Scope One', serif;
+	font-family: 'Lora', serif;
 	line-height: 1.4;
 	font-size: 1.5rem;
 	font-weight: 400;
@@ -104,6 +106,7 @@ blockquote {
 
 code {
 	font-size: 1rem;
+	font-family: 'Inconsolata', monospace;
 	}	
 
 code.highlighter-rouge {
