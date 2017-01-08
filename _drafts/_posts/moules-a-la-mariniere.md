@@ -1,5 +1,5 @@
 ---
-title: Moules a la Mariniere et Pomme Frites
+title: Moules a la Mariniere
 date: '2017-01-07 19:13:51'
 layout: recipe
 image: ''
@@ -12,24 +12,20 @@ tags:
 - french
 source: Smitten Kitchen
 sourceURL: https://smittenkitchen.com/2006/08/flexing-my-food-neuroses-and-also-mussels/
-sourceAuthor: adapted from Julia Child and Michael Chiarello, respectively, by Deb
-  Perelman
+sourceAuthor: adapted from Julia Child by Deb Perelman
 yield: Serves two, but can be adapted to more
 authorNote: ''
-personalNote: |-
-  Do it just like Julia.
-
-  The original recipe calls for 6 quarts, but really just 1 lb of bivalves per person
+personalNote: The original recipe calls for 6 quarts of mussels, but really 1 lb of
+  bivalves per person seems like a good rule. Sub in clams if you're feeling cray.
 totalTime: ''
-prepTime: ''
+prepTime: 5-10 min
 handsoffTime: ''
 cookTime: ''
 chillTime: ''
 assemblyTime: ''
 reheatTime: ''
 ingredients: |-
-  <strong>For the mussels</strong>
-  2 cups light, dry white win or 1 cup dry white vermouth
+  2 cups light, dry white wine or 1 cup dry white vermouth
   1/2 cup minced shallots, green onions, or very finely minced onions
   8 parsley sprigs
   1/2 bay leaf
@@ -38,14 +34,7 @@ ingredients: |-
   6 tablespoons butter
   6 quarts scrubbed, soaked mussels
   1/2 cup roughly chopped parsley
-
-  <strong>For the frites</strong>
-  6 russet potatoes
-  1/4 cup extra-virgin olive oil (or less)
-  Salt and freshly ground black peppe
 ---
-## For the mussels
-
 ### To prep
 
 Bring all but the last two ingredients to boil in the kettle. Boil for 2 to 3 minutes to evaporate its alcohol and to reduce its volume slightly.
@@ -58,16 +47,4 @@ Add the mussels to the kettle. Cover tightly and boil quickly over high heat. Fr
 
 With a big skimmer, dip the mussels into wide soup plates. Allow the cooking liquid to settle for a moment so any sand will sink to the bottom. Then ladle the liquid over the mussels, sprinkle with the parsley and serve immediately.
 
-## For the pomme frites
-
-### To prep
-
-Preheat the oven to 400 degrees F. 
-
-Peel potatoes (if peeled fries are your thing, skip it if you couldn’t care) and cut into half-inch thick slices (lengthwise) cut again into 1/2-inch thick fries. 
-
-### To cook
-
-Place the potatoes into a pot with cold water and 1 tablespoon of salt. Bring up to a gentle boil and simmer until a paring knife tip goes through easily, cooked about 3/4 of the way through.
-
-Drain carefully and put potatoes a bowl. Add olive oil, 1 tablespoon salt, 1/2 teaspoon black pepper. Toss well and lay out in 1 layer on baking sheet. Bake until golden brown.
+Serve with pomme frites (also in the source link) or crusty bread to mop up the tasty juices.
