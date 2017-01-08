@@ -120,8 +120,9 @@ code.highlighter-rouge {
 /*  02 HEADER + NAV + CONTENT BLOCK + FOOTER  */
 
 .header-content {
-	width: 100%;
+	width: 40%;
 	color: #c07c12;
+	display: block;
 	}
 
 .header-content a {
@@ -136,7 +137,10 @@ code.highlighter-rouge {
 	text-transform: uppercase;
 	font-size: 0.875rem;
 	font-weight: 600;
+	text-align: right;
 	margin-bottom: 5rem;
+	display: block;
+	width: 60%;
 }
 
 content {
