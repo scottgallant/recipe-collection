@@ -17,10 +17,10 @@ yield: Serves two, but can be adapted to more
 authorNote: ''
 personalNote: The original recipe calls for 6 quarts of mussels, but really 1 lb of
   bivalves per person seems like a good rule. Sub in clams if you're feeling cray.
-totalTime: ''
+totalTime: 35 min
 prepTime: 5-10 min
-handsoffTime: ''
-cookTime: ''
+handsoffTime: 20 min (for mussels to release grit)
+cookTime: 5 min
 chillTime: ''
 assemblyTime: ''
 reheatTime: ''
