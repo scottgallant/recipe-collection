@@ -118,7 +118,7 @@ code.highlighter-rouge {
 
 /*  02 HEADER + NAV + CONTENT BLOCK + FOOTER  */
 
-.header-content {
+/*.header-content {
 	width: 40%;
 	color: #c07c12;
 	display: block;
@@ -132,13 +132,13 @@ code.highlighter-rouge {
 
 .header-content a:hover {
 	color: #f14a0e;
-}
+} */
 
 .main-nav {
 	text-transform: uppercase;
 	font-size: 0.875rem;
 	font-weight: 600;
-	text-align: right;
+	text-align: center;
 	margin-bottom: 5rem;
 	display: block;
 	width: 60%;
