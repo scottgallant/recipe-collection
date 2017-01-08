@@ -123,6 +123,7 @@ code.highlighter-rouge {
 	width: 40%;
 	color: #c07c12;
 	display: block;
+	float: left;
 	}
 
 .header-content a {
@@ -141,6 +142,7 @@ code.highlighter-rouge {
 	margin-bottom: 5rem;
 	display: block;
 	width: 60%;
+	float: left;
 }
 
 content {
