@@ -39,7 +39,8 @@ html {
 	font-size: 16px;
 }
 body {
-	/* margin: auto; */
+	max-width: 45rem;
+	margin: auto;
 	font-family: 'Open Sans', sans-serif;
 	color: #515967;
 	font-weight: 400;
@@ -118,12 +119,16 @@ code.highlighter-rouge {
 
 /*  02 HEADER + NAV + CONTENT BLOCK + FOOTER  */
 
-/*.header-content {
-	width: 40%;
+/* HEADER.HTML*/
+
+.header-content {
+	width: 100%;
 	color: #c07c12;
-	display: block;
-	float: left;
-	margin-left: 3rem;
+	text-transform: uppercase;
+	font-size: 0.875rem;
+	font-weight: 600;
+	margin-bottom: 5rem;
+	text-align: center;
 	}
 
 .header-content a {
@@ -132,24 +137,16 @@ code.highlighter-rouge {
 
 .header-content a:hover {
 	color: #f14a0e;
-} */
-
-.main-nav {
-	text-transform: uppercase;
-	font-size: 0.875rem;
-	font-weight: 600;
-	text-align: center;
-	margin-bottom: 5rem;
-	display: block;
-	width: 100%;
-	float: center;
 }
 
+/* APPLIES TO ALL _LAYOUTS FILES */
+
 content {
-	max-width: 45rem;
+	width: 100%;
 	white-space: pre;
-	margin: auto;
 	}
+
+/* FOOTER.HTML */
 
 .footer-content {
 	margin-top: 2.5rem;
