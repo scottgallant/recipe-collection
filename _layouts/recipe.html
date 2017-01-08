@@ -31,7 +31,7 @@
         {% for tag in page.tags %}
             <a href="#">{{ tag }}</a>
             {% if forloop.last != true %}
-                |
+                &nbsp; &nbsp;
             {% endif %}
         {% endfor %}
       </h5>
@@ -85,8 +85,6 @@
   <!-- Method as body content -->
 
       <div class="method">
-      <h2>Method</h2>
-
         {{content}}
       </div>
 
