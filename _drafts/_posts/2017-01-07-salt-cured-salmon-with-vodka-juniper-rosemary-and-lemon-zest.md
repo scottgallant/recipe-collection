@@ -29,8 +29,10 @@ cookTime: ''
 chillTime: ''
 assemblyTime: ''
 reheatTime: 24-48 hrs in the fridge (to thaw, if frozen)
-ingredients: |-
-  2 lb filet king salmon (center, thick cut)
+ingredients:
+- 2 lb filet king salmon (center
+- |2-
+   thick cut)
   12 juniper berries (optional)
   1 tsp whole peppercorns
   ½ cup salt
