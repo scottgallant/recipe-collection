@@ -26,12 +26,14 @@ cookTime: 10 min
 chillTime: 4 hrs to overnight
 assemblyTime: 20 min
 reheatTime: ''
-ingredients: |-
+ingredients:
+- |-
   ⅔ cup full-fat coconut milk from a can
   2 Tbsp coconut oil
   12 oz semi sweet choc chips
   1 tsp vanilla extract
-  Flaky sea salt, for serving
+  Flaky sea salt
+- " for serving"
 ---
 ### Prep
 Line a small baking dish with parchment paper.
